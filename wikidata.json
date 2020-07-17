@@ -1,0 +1,20 @@
+[
+  {
+    "item": {
+      "value": "Q367589",
+      "label": "David Lange"
+    },
+    "replaces": {
+      "value": "Q1385100",
+      "label": "Geoffrey Palmer"
+    },
+    "replacedBy": {
+      "value": "Q7150443",
+      "label": "Paul East"
+    },
+    "statement": "q367589$3d94dbf0-42ec-805f-fad0-e87cdf8c4f79",
+    "ordinal": "26",
+    "start": "1989-01-01T00:00:00Z",
+    "end": "1990-01-01T00:00:00Z"
+  }
+]
